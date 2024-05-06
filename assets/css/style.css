@@ -50,8 +50,8 @@
   );
   --text-gradient-yellow: linear-gradient(
     to right, 
-    hsl(118, 100%, 45%), 
-    hsl(119, 100%, 13%)
+    hsl(4, 100%, 50%), 
+    hsl(51, 100%, 50%)
   );
   .bandera {
     position: fixed;
@@ -68,9 +68,9 @@
   --smoky-black: hsl(0, 0%, 7%);
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: hsl(127, 100%, 23%);
-  --vegas-gold: hsl(45, 54%, 58%);
-  --light-gray: hsl(0, 0%, 84%);
+  --orange-yellow-crayola: hsl(44, 82%, 48%);
+  --vegas-gold: hsl(48, 36%, 5%);
+  --light-gray: hsl(0, 0%, 16%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 
@@ -197,7 +197,7 @@ article {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-  color: rgb(3, 80, 18);
+  color: rgb(255, 75, 10);
   box-shadow: var(--shadow-1);
   z-index: 1;
 }
